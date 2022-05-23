@@ -1,7 +1,7 @@
 {
-  "name": "todolist-javascript",
+  "name": "todolist",
   "version": "1.0.0",
-  "description": "JavaScriptでToDoListを作成",
+  "description": "ToDoListをJavaScriptで作成",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
